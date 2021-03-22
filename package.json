@@ -1,0 +1,10 @@
+{
+  "name": "boid",
+  "version": "0.0.7",
+  "description": "Desktop Application for the Boid platform.",
+  "main": "src/main.ts",
+  "repository": "https://github.com/boid-com/BoidDesktop.git",
+  "author": "boid",
+  "license": "MIT",
+  "private": false
+}
