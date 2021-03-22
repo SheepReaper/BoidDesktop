@@ -5,6 +5,5 @@
   "main": "src/main.ts",
   "repository": "https://github.com/boid-com/BoidDesktop.git",
   "author": "boid",
-  "license": "MIT",
-  "private": false
+  "license": "MIT"
 }
